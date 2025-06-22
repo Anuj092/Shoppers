@@ -25,7 +25,6 @@ Features:
 The application should be running at [heroku](https://sellout-products.herokuapp.com/).
 --->
 
-[Website Link](https://shoppers-alpha.herokuapp.com/)
 
 
 <br>
